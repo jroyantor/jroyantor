@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jrantor
-- 👀 I’m interested in Software Quality Assurance and Web Technolgies
+- 👀 I’m interested in Software Quality Assurance and Web Technologies
 - 🌱 I’m currently learning JavaScript and Test Automation
 - 📫 How to reach me: 
 [Linkedin](https://www.linkedin.com/in/jrantor/)
