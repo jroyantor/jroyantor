@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @jrantor
-- 👀 I’m interested in Software Quality Assurance and Web Technologies
-- 🌱 I’m currently learning JavaScript and Test Automation
+- 👋 Hi, I’m @jroyantor
+- 👀 I’m interested in Web Security and Web Technologies
+- 🌱 I’m currently learning VueJS and Nodejs
 - 📫 How to reach me: 
 [Linkedin](https://www.linkedin.com/in/jrantor/)
 
 <!---
-jrantor/jrantor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jroyantor/jroyantor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
