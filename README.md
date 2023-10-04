@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Janta Roy Antor<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+### Hi, I'm Janta Roy Antor
 
 
 ### :man_technologist: &nbsp;About Me :
