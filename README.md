@@ -43,5 +43,5 @@ I am a Laravel Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </p>
 
 <p align="center">
-<a href="https://www.twitter.com/jroyantor"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+<a href="https://www.twitter.com/jroyantor"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"></a>
 </p>
